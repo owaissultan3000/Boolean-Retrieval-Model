@@ -1,0 +1,9 @@
+.nav {
+  text-align: center;
+  padding-top:5%
+
+}
+.nav span {
+  font-size: 60px;
+  font-weight: bold;
+}

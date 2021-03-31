@@ -1,0 +1,37 @@
+.AddTransaction{
+  padding-left: 33%;
+  width: 40%;
+  height:70%;
+  margin-top: 5%;
+  
+}
+.AddTransaction form > input[type=text] {
+    width: 85%;
+    font-size:20px;
+    border: 2px solid gray;
+    border-radius: 4px;
+
+}
+
+.AddTransaction form > button {
+    width: 25%;
+    margin-top: 4%;
+    margin-left:30%;
+    text-transform: inherit !important;
+    background-color: #8bd13c !important;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 7px;
+
+    
+}
+
+.option{
+    padding-left:20%;
+    padding-top:5%;
+    border: none;
+    border-radius: 4px;
+}
+
+
