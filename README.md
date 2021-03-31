@@ -6,6 +6,8 @@ Designed a Query Engine that can parse complex Boolean queries that have multipl
 Pickled the inverted index for quick retrieval for query purposes.
 
 Tools:
-REACT
+REACT.js
+
 Node.js
+
 Express.js
